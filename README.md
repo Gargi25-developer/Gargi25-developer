@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gargi</h1>
 <h3 align="center">I'm a passionate Learner from India.</h3>
